@@ -69,7 +69,7 @@ To become a skilled **Data Analyst** who helps organizations make smarter decisi
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 📦 **Warehouse Operations Analytics Dashboard** | Interactive Power BI dashboard for warehouse KPIs, inventory, sales & order analysis. | Power BI |
-| 📊 **Social Media Campaign Analysis** | Business dashboard with KPI tracking and trend analysis. | Power BI, Excel |
+| 📊 **Social Media Campaign Analysis** | Interactive Power BI dashboard for analyzing social media campaign performance. | Power BI |
 | 📈 **Excel Dashboard** | Dynamic reports using Pivot Tables, Charts & Slicers. | Microsoft Excel |
 | 🗄️ **SQL Business Analysis** | SQL queries to solve real-world business problems and generate insights. | SQL, MySQL |
 | 🌐 **Haven Analytics Dashboard** | Responsive analytics dashboard built using Chart.js. | HTML, CSS, JavaScript |
