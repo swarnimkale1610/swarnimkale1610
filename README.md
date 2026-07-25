@@ -32,6 +32,10 @@ I believe that every dataset tells a story, and my goal is to uncover that story
 
 To become a skilled **Data Analyst** who helps organizations make smarter decisions using data-driven insights.
 
+I aim to leverage analytical thinking, business intelligence tools, and data visualization techniques to solve real-world business challenges.
+
+My goal is to continuously enhance my technical expertise, contribute to impactful projects, and deliver actionable insights that drive business growth and operational efficiency.
+
 <br>
 
 
