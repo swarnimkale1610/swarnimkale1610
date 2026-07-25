@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:1E3A8A&height=220&section=header&text=Swarnim%20Kale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Excel%20|%20Python&descAlignY=58"/>
 
 
-<br>
-
 </div>
 
 ---
