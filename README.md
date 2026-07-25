@@ -73,10 +73,6 @@ To become a skilled **Data Analyst** who helps organizations make smarter decisi
 - 📦 Data Warehousing
 
 
-# 📈 Contribution Graph
-
-[![Swarnim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swarnimkale1610&theme=tokyo-night)](https://github.com/swarnimkale1610)
-
 ---
 # 🚀 Featured Projects
 
