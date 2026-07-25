@@ -60,18 +60,6 @@ To become a skilled **Data Analyst** who helps organizations make smarter decisi
 
 </p>
 
----
-
-# 🚀 Currently Learning
-
-- 📊 Advanced Power BI
-- ⚡ DAX
-- 🔄 Power Query
-- 🐍 Python for Analytics
-- 📈 Statistics
-- 📉 Business Intelligence
-- 📦 Data Warehousing
-
 
 ---
 # 🚀 Featured Projects
