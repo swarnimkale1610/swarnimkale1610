@@ -165,6 +165,4 @@ My goal is to continuously enhance my technical expertise, contribute to impactf
 
 ### If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,1,2,3,4&text=Thanks%20for%20Visiting!&fontColor=F2C94C&fontSize=24&animation=fadeIn"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0D1117&text=Happy%20Coding!&fontColor=FFFFFF&fontSize=22"/>
