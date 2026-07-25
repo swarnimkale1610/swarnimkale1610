@@ -30,7 +30,7 @@ I believe that every dataset tells a story, and my goal is to uncover that story
 To become a skilled **Data Analyst** who helps organizations make smarter decisions using data-driven insights.
 
 <br>
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 ## 📊 Data Analytics
 
