@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:2563EB,100:1E3A8A&height=220&section=header&text=Swarnim%20Kale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Excel%20|%20Python&descAlignY=58"/>
 
-# 👋 Hi, I'm Swarnim Kale
-
-### 📊 Data Analyst | Business Intelligence Enthusiast | Turning Data into Business Insights
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Power+BI+Developer;SQL+Data+Analysis;Excel+Automation;Python+for+Analytics;Building+Interactive+Dashboards;Always+Learning+Something+New"/>
 
 <br>
 
