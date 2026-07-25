@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=14,18,20,24&text=Swarnim%20Kale&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Power%20BI%20•%20SQL%20•%20Excel%20•%20Python&descAlignY=67"/>
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=0,2,24,26&text=Swarnim%20Kale&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Business%20Intelligence%20|%20Data%20Analytics&descAlignY=67"/>
 
 </div>
