@@ -5,10 +5,6 @@
 
 <br>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=swarnimkale1610&style=for-the-badge&color=blue)
-
 </div>
 
 ---
